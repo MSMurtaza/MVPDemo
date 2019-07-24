@@ -123,4 +123,6 @@ public class MainActivity extends AppCompatActivity implements AppPinContract.Vi
         imageView1.setVisibility(value);
         imageView2.setVisibility(value);
     }
+
+    // this is my test code
 }

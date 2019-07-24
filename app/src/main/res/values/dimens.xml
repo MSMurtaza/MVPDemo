@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="def_margin_left">25dp</dimen>
+    <dimen name="def_margin_top">25dp</dimen>
+    <dimen name="margin_bottom">25dp</dimen>
+    <dimen name="def_margin_bottom">25dp</dimen>
+    <dimen name="def_layout_width">25dp</dimen>
+    <dimen name="def_margin">25dp</dimen>
+
+</resources>

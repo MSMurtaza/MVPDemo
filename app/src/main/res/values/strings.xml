@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="create_pin">Create a pin to use in place of password</string>
+    <string name="four_digit_pin">Please enter a 4-digit pin</string>
+    <string name="newpin">New Pin</string>
+    <string name="finish">Finish</string>
+</resources>
